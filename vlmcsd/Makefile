@@ -9,7 +9,7 @@ PKG_LICENSE:=MIT
 PKG_LICENSE_FILES:=LICENSE
 
 PKG_SOURCE:=$(PKG_VERSION).tar.gz
-PKG_SOURCE_URL:=https://github.com/EnfermeraSexy/oscam/archive
+PKG_SOURCE_URL:=https://github.com/EnfermeraSexy/vlmcsd/archive
 PKG_MD5SUM:=ea19cc1346fba447daced0224b670423
 
 PKG_BUILD_DIR:=$(BUILD_DIR)/$(PKG_NAME)-$(PKG_VERSION)
